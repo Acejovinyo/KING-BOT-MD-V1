@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
-global.ownername = 'ШHłТΞ HΛϾКΞЯS'
-global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
-global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
-global.ig = 'https://github.com/KING-BOT-OFFICIAL'
-global.region = 'Sri Lanka'
-global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
+global.owner = ['254113200483','254726856795']
+global.premium = ['254113200483','254726856795']
+global.ownernomer = '254113200483','254726856795'
+global.ownername = 'ᵏⁱʳᵏ🇦🇱 ⃝🅐︎C̻ﻉ ɨ𝗇ϝཞα🅱️𝖑α̶̶̶̶ᥴᥴ ﮩ٨ﮩ٨ـ✞︎ [̲̅[̲̅✗[̲̅[̲̅ﮩ٨ـ📵🔥'
+global.botname = '[𝐀𝐂𝐄✞︎ 𝛃𝚯𝚪]'
+global.footer = '𝐀𝐂𝐄 𝐉𝐎𝐁𝐁𝐈𝐄✞︎'
+global.ig = 'https://github.com/Acejovinyo'
+global.region = 'Nakuru, Naks, Kenya🇰🇪'
+global.sc = 'https://github.com/Acejovinyo/KING-BOT-MD'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
-global.author = 'ШHłТΞ HΛϾКΞЯS'
+global.packname = '[ꀤ_αｍ_🅐︎𝗰𝗲✞︎]'
+global.author = 'ᵏⁱʳᵏ🇦🇱 ⃝🅐︎C̻ﻉ ɨ𝗇ϝཞα🅱️𝖑α̶̶̶̶ᥴᥴ ﮩ٨ﮩ٨ـ✞︎ [̲̅[̲̅✗[̲̅[̲̅ﮩ٨ـ📵🔥'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
 global.sp = '⭔'
@@ -35,7 +35,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: 'Tulia Kiac...👉👈',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
